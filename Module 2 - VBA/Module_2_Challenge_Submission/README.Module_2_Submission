@@ -1,0 +1,35 @@
+Submission for Module 2 VBA homework 
+Retrieval of Data (20 points)
+  The script loops through one year of stock data and reads/ stores all of the following values from each row:
+      ticker symbol (5 points): Script output as intended
+      volume of stock (5 points): Script output as intended
+      open price (5 points): Script only inputting first row/cell correct, all other rows incorrect
+        Sought help from: Classmate, ChatGPT, and TA but script still wasn't fixed
+      close price (5 points): Script only inputting first row/cell correct, all other rows incorrect
+        Sought help from: Classmate, ChatGPT, and TA but script still wasn't fixed
+
+Column Creation (10 points)
+  On the same worksheet as the raw data, or on a new worksheet all columns were correctly created for:
+    ticker symbol (2.5 points): Script output as intended
+    total stock volume (2.5 points) : Script output as intended
+    yearly change ($) (2.5 points): Script output as intended
+    percent change (2.5 points): Script output as intended
+
+Conditional Formatting (20 points)
+  Conditional formatting is applied correctly and appropriately to the yearly change column (10 points): Script output as intended
+  Conditional formatting is applied correctly and appropriately to the percent change column (10 points): Script output as intended
+
+Calculated Values (15 points)
+  All three of the following values are calculated correctly and displayed in the output:
+    Greatest % Increase (5 points): Due to incorrect calcuation for year change, numbers also incorrect
+    Greatest % Decrease (5 points): Due to incorrect calcuation for year change, numbers also incorrect
+    Greatest Total Volume (5 points): Due to incorrect calcuation for year change, numbers also incorrect
+
+Looping Across Worksheet (20 points)
+  The VBA script can run on all sheets successfully: Although data incorrect, scripts run on all sheets
+
+GitHub/GitLab Submission (15 points)
+  All three of the following are uploaded to GitHub/GitLab:
+    Screenshots of the results (5 points): See uploaded screenshots
+    Separate VBA script files (5 points): Single VBA script file with all code
+    README file (5 points): See this file
